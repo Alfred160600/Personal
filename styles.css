@@ -1,0 +1,29 @@
+
+body{
+    background-color:rgba(79, 86, 100, 0.411);
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#tabla{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color:rgba(79, 86, 100, 0.692);
+    border-style: double;
+
+}
+#titulo_principal{
+    color:rgb(51, 25, 73);
+    font: oblique bold 150% cursive;
+}
+#tabla1{
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(43, 86, 129)
+}
+
+.subtitulo{
+    color: rgb(73, 67, 163);
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 150%;
+}
